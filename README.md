@@ -1,11 +1,11 @@
 <h1 align="center">Opa! me chamo Edvan, prazer ;)</h1>
 
-![Edvan GitHub stats](https://github-readme-stats.vercel.app/api?username=edvansts&theme=tokyonight)
+![Edvan GitHub stats](https://github-readme-stats.vercel.app/api?username=edvansts&theme=tokyonight&show_icons=true&count_private=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvansts&layout=compact&theme=tokyonight)
 
 - 🇧🇷  I'm from Tobias Barreto, interior of Sergipe, Brazil!
-- 🔭  I’m currently working at <b>QueroDelivery</b>💜.
-- 🌱  I’m currently learning <b>React JS, Next JS, Tests, Design Systems and Patterns, and other things about the Front-Fnd world 🌎.</b> :P
+- 🔭  I’m currently working at <b>[QueroDelivery](https://querodelivery.com)</b>💜.
+- 🌱  I’m currently learning <b>React JS, Next JS, Tests, Design Systems and Patterns, and other things about the Front-Fnd world 🌎</b>
 - 💬  I really appreciate creating connections and talk about anything. <i>Let's talk!</i>
 - 😳 About me: I love all forms of art and that's why I love coding: <b>it's art for me</b>. Programming also allows me to create and change other people's lives <b>through how I see the world</b>. And that's why I wanna keep learning a bit more everyday: I want to create a better world. 
 
