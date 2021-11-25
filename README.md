@@ -1,7 +1,7 @@
 <h1 align="center">Opa! me chamo Edvan, prazer ;)</h1>
 
-![Edvan GitHub stats](https://github-readme-stats.vercel.app/api?username=edvansts&theme=tokyonight&show_icons=true&count_private=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvansts&layout=compact&theme=tokyonight)
+![Edvan GitHub stats](https://github-readme-stats-edvansts.vercel.app/api?username=edvansts&theme=tokyonight&show_icons=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats-edvansts.vercel.app/api/top-langs/?username=edvansts&layout=compact&theme=tokyonight)
 
 - 🇧🇷  I'm from Tobias Barreto, interior of Sergipe, Brazil!
 - 🔭  I’m currently working at <b>[QueroDelivery](https://querodelivery.com)</b>💜.
