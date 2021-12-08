@@ -11,3 +11,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Edvan_de_Matos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matos-edvan/)](https://www.linkedin.com/in/matos-edvan/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edvan.stt02@gmail.com)
+[![Npm](https://img.shields.io/badge/Npm-D14836?style=square&logo=npm&logoColor=red)](https://www.npmjs.com/settings/matoss/packages)
